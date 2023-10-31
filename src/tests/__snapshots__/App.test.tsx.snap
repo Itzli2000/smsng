@@ -12,29 +12,19 @@ exports[`match snapshot 1`] = `
           class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-6 css-f0xsrb-MuiGrid-root"
           style="margin: auto;"
         >
-          <p
-            class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
-          >
-            isAuthenticated: 
-          </p>
-          <p
-            class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
-          >
-            user: 
-            null
-          </p>
-          <p
-            class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
-          >
-            filters: 
-            {"stores":[],"models":[]}
-          </p>
-          <p
-            class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
-          >
-            products: 
-            []
-          </p>
+          <div>
+            <p
+              class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+            >
+              isAuthenticated: 
+            </p>
+            <p
+              class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+            >
+              user: 
+              null
+            </p>
+          </div>
         </div>
       </div>
     </div>
@@ -47,29 +37,19 @@ exports[`match snapshot 1`] = `
         class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-6 css-f0xsrb-MuiGrid-root"
         style="margin: auto;"
       >
-        <p
-          class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
-        >
-          isAuthenticated: 
-        </p>
-        <p
-          class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
-        >
-          user: 
-          null
-        </p>
-        <p
-          class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
-        >
-          filters: 
-          {"stores":[],"models":[]}
-        </p>
-        <p
-          class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
-        >
-          products: 
-          []
-        </p>
+        <div>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+          >
+            isAuthenticated: 
+          </p>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+          >
+            user: 
+            null
+          </p>
+        </div>
       </div>
     </div>
   </div>,
