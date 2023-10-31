@@ -1,5 +1,5 @@
 import { create } from 'zustand'
-import { AuthStoreType } from "../types/authStore.types";
+import { AuthStoreType } from './types';
 
 const useAuthStore = create<AuthStoreType>()((set) => ({
   isAuthenticated: false,

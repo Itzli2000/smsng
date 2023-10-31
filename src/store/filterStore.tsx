@@ -1,5 +1,5 @@
 import { create } from 'zustand'
-import { Filter, FilterStore } from '../types/filterStore.types';
+import { Filter, FilterStore } from './types';
 
 const useFilterStore = create<FilterStore>((set) => ({
   filters: {

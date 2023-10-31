@@ -1,5 +1,5 @@
 import { create } from 'zustand'
-import { DataStore, Product } from '../types/dataStore.types';
+import { DataStore, Product } from './types';
 
 const useDataStore = create<DataStore>((set) => ({
   products: [],
