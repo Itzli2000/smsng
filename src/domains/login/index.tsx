@@ -1,5 +1,5 @@
 import { Typography } from "@mui/material";
-import useAuthStore from "../../store/authStore";
+import { useAuthStore } from "../../store";
 
 const Login = () => {
   const { isAuthenticated, user } = useAuthStore();

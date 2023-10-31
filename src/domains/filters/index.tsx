@@ -1,6 +1,5 @@
 import { Typography } from "@mui/material";
-import useDataStore from "../../store/dataStore";
-import useFilterStore from "../../store/filterStore";
+import { useDataStore, useFilterStore } from "../../store";
 
 const Filters = () => {
   const { filters } = useFilterStore();
