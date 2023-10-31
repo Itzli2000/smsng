@@ -12,54 +12,28 @@ exports[`match snapshot 1`] = `
           class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-6 css-f0xsrb-MuiGrid-root"
           style="margin: auto;"
         >
-          <div>
-            <a
-              href="https://vitejs.dev"
-              target="_blank"
-            >
-              <img
-                alt="Vite logo"
-                class="logo"
-                src="/vite.svg"
-              />
-            </a>
-            <a
-              href="https://react.dev"
-              target="_blank"
-            >
-              <img
-                alt="React logo"
-                class="logo react"
-                src="/src/assets/react.svg"
-              />
-            </a>
-          </div>
-          <h1
-            class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
-          >
-            Vite + React
-          </h1>
-          <div
-            class="card"
-          >
-            <button>
-              count is 
-              0
-            </button>
-            <p
-              class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
-            >
-              Edit 
-              <code>
-                src/App.tsx
-              </code>
-               and save to test HMR
-            </p>
-          </div>
           <p
             class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
           >
-            Click on the Vite and React logos to learn more
+            isAuthenticated: 
+          </p>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+          >
+            user: 
+            null
+          </p>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+          >
+            filters: 
+            {"stores":[],"models":[]}
+          </p>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+          >
+            products: 
+            []
           </p>
         </div>
       </div>
@@ -73,54 +47,28 @@ exports[`match snapshot 1`] = `
         class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-6 css-f0xsrb-MuiGrid-root"
         style="margin: auto;"
       >
-        <div>
-          <a
-            href="https://vitejs.dev"
-            target="_blank"
-          >
-            <img
-              alt="Vite logo"
-              class="logo"
-              src="/vite.svg"
-            />
-          </a>
-          <a
-            href="https://react.dev"
-            target="_blank"
-          >
-            <img
-              alt="React logo"
-              class="logo react"
-              src="/src/assets/react.svg"
-            />
-          </a>
-        </div>
-        <h1
-          class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
-        >
-          Vite + React
-        </h1>
-        <div
-          class="card"
-        >
-          <button>
-            count is 
-            0
-          </button>
-          <p
-            class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
-          >
-            Edit 
-            <code>
-              src/App.tsx
-            </code>
-             and save to test HMR
-          </p>
-        </div>
         <p
           class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
         >
-          Click on the Vite and React logos to learn more
+          isAuthenticated: 
+        </p>
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+        >
+          user: 
+          null
+        </p>
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+        >
+          filters: 
+          {"stores":[],"models":[]}
+        </p>
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+        >
+          products: 
+          []
         </p>
       </div>
     </div>
